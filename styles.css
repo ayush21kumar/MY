@@ -1,0 +1,157 @@
+body {
+  background-color:  #E4F9F5;
+  margin: 0;
+}
+
+hr {
+  padding-top: 20px;
+  border-style: none;
+  border-top-style: dotted;
+  height: 0;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  margin-top: 10px;
+
+}
+
+.H {
+  margin-top: 15px;
+  margin-bottom: 10px;
+  color: #2D9596;
+  font-size: 2.5rem;
+  font-family: 'Sacramento', cursive;
+
+
+}
+.A {
+  margin-top: 20px;
+  margin-bottom: 50px;
+  font-size: 1.6rem;
+  color: #38ABAC;
+  font-style: italic;
+
+}
+
+.School {
+  height: 30%;
+  width: 40%;
+}
+
+.College {
+  height: 35%;
+  width: 45%;
+}
+
+.Intro {
+  text-align: center;
+}
+
+.Picture {
+  padding: 40px 40px 20px;
+}
+
+.Journey {
+  text-align: center;
+}
+
+.I {
+  height: 25%;
+  width: 35%;
+}
+
+.Hobbies {
+  text-align: center;
+}
+
+.J {
+  margin-bottom: 50px;
+  font-size: 3rem;
+  font-family: 'Sacramento', cursive;
+  color: #CC5954
+}
+
+.S {
+  text-align: center;
+  margin-left: 25%;
+  width: 50%;
+  font-size: 2rem;
+  margin-top: 15px;
+  font-family: monospace;
+color: #7BC731;
+}
+
+.C {
+  text-align: center;
+  margin-left: 25%;
+  width: 50%;
+  font-size: 2rem;
+  margin-top: 15px;
+  margin-bottom: 50px;
+  font-family: monospace;
+  color: #1E71AF;
+}
+ .College {
+   margin-top: 40px;
+ }
+
+.HH {
+  margin-top: 25px;
+  margin-bottom: 50px;
+  color: #5971E1;
+  font-size: 2.5rem;
+  font-family: 'Sacramento', cursive;
+
+}
+
+.KC {
+  text-align: center;
+  margin-left: 25%;
+  width: 50%;
+  font-size: 2rem;
+  margin-top: 15px;
+  margin-bottom: 60px;
+  font-family: monospace;
+color: #EE1DE7;
+}
+.KW {
+  text-align: center;
+  margin-left: 25%;
+  width: 50%;
+  font-size: 2rem;
+  margin-top: 15px;
+    margin-bottom: 60px;
+  font-family: monospace;
+color: #E1EA18;
+}
+.KT {
+  text-align: center;
+  margin-left: 25%;
+  width: 50%;
+  font-size: 2rem;
+  margin-top: 15px;
+    margin-bottom: 60px;
+  font-family: monospace;
+color: #EF5F70;
+}
+
+.L {
+  width: 80%;
+  text-align: center;
+  margin-left: 10%;
+  font-size: 1.8rem;
+  font-family: sans-serif;
+}
+.Q {
+  font-size: 1rem;
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.KTM {
+  height: 5%;
+  width: 5%;
+ margin: 12.5%;
+
+
+}
